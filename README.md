@@ -3,5 +3,6 @@ The N-Queens puzzle is the problem of placing N chess queens on an N×N chessboa
 
 This algorithm is designed using recursion.
 
-![image](https://user-images.githubusercontent.com/120575887/207646312-2cb216ba-2b3a-4b72-bff4-4783f61c4a09.png)
+Web Link - https://nqueen.netlify.app/
+
 
